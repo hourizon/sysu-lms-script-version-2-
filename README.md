@@ -1,7 +1,7 @@
 # 中山大学 LMS 学习助手 LLM 答题版
 
 特别感谢 [Infe1/sysu-lms-assistant](https://github.com/Infe1/sysu-lms-assistant) 的原始项目。
-![alt text](image.png)
+
 [![Version](https://img.shields.io/badge/version-2.4-blue.svg)](https://github.com/hourizon/sysu-lms-script-version-2-)
 [![License](https://img.shields.io/badge/license-GPL--3.0-brightgreen.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
