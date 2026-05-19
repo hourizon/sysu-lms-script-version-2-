@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         中山大学 LMS 学习助手 LLM 答题版
-// @namespace    https://github.com/hourizon/sysu-lms-assistant
+// @namespace    https://github.com/hourizon/sysu-lms-script-version-2-
 // @version      2.4
 // @description  全自动完成国安+心理秒刷课（伪造进度上报）；自动跳转到下一课，国安多阶段测验自动调用 LLM 答题、提交并跳转；遇讨论页自动跳过；
 // @author       hourizon
 // @match        *://lms.sysu.edu.cn/*
-// @homepage     https://github.com/hourizon/sysu-lms-assistant
-// @supportURL   https://github.com/hourizon/sysu-lms-assistant/issues
+// @homepage     https://github.com/hourizon/sysu-lms-script-version-2-
+// @supportURL   https://github.com/hourizon/sysu-lms-script-version-2-/issues
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
