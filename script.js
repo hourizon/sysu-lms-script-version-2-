@@ -27,7 +27,7 @@
         base_url: _localStorage.getItem('lms_llm_base_url') || 'https://api.deepseek.com/',
         model: _localStorage.getItem('lms_llm_model') || 'deepseek-v4-flash',
         api_key: _localStorage.getItem('lms_llm_api_key') || '',
-        max_tokens: 1024,
+        max_tokens: 8192,
         temperature: 0.1,
     };
 
@@ -36,7 +36,7 @@
     const DELAY_BEFORE_NEXT = 1500;
     const SKIP_FORUM_DELAY = 2000;
     const VIDEO_END_WAIT = 3000;
-    const LLM_TIMEOUT = 30000;
+    const LLM_TIMEOUT = 300000;
     const MAX_LLM_RETRY = 2;
     const AUTO_SUBMIT_QUIZ = true;
     const CONFIRM_BEFORE_SUBMIT = false;
